@@ -17,7 +17,7 @@
 
 - 💬 Ask me about *java*
 
-- 📄 Know about my experiences [https://kartexa.com/prasen.pdf](https://kartexa.com/prasen.pdf)
+- 📄 Know about my experiences [https://in.linkedin.com/in/divinedivyanshi](https://in.linkedin.com/in/divinedivyanshi)
 
 
 <h3 align="left">Connect with me:</h3>
