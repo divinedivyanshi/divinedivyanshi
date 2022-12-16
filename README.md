@@ -23,21 +23,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/divinedivyanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="divinedivyanshi" height="30" width="40" /></a>
-<a href="https://twitter.com/kravingo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kravingo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/divinedivyanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divinedivyanshi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17277435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17277435" height="30" width="40" /></a>
-<a href="https://codesandbox.com/divinedivyanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="divinedivyanshi" height="30" width="40" /></a>
 <a href="https://kaggle.com/divinedivyanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="divinedivyanshi" height="30" width="40" /></a>
-<a href="https://fb.com/divinedivyanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divinedivyanshi" height="30" width="40" /></a>
 <a href="https://instagram.com/divinedivyanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divinedivyanshi" height="30" width="40" /></a>
-<a href="https://www.behance.net/divinedivyanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="divinedivyanshi" height="30" width="40" /></a>
-<a href="https://medium.com/divinedivyanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="divinedivyanshi" height="30" width="40" /></a>
+<a href="https://medium.com/@divinedivyanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="divinedivyanshi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/divinedivyanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divinedivyanshi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/divinedivyanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divinedivyanshi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/divinedivyanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="divinedivyanshi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/divinedivyanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divinedivyanshi" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@divinedivyanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@divinedivyanshi" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/divinedivyanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="divinedivyanshi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
