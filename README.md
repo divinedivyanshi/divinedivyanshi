@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning *Machine Learning*
 
 
-- 🔭 I’m currently working on [KravinGO](https://kravingo.com)
+- 🔭 I’m worked in [KravinGO](https://kravingo.com)
 
 
 - 👯 Connect with me on LinkedIn [LinkedIn](https://in.linkedin.com/in/divinedivyanshi)
@@ -15,7 +15,7 @@
 
 
 
-- 💬 Ask me about *java*
+- 💬 Ask me about *c/c++,python*
 
 - 📄 Know about my experiences [https://in.linkedin.com/in/divinedivyanshi](https://in.linkedin.com/in/divinedivyanshi)
 
