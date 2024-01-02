@@ -1,0 +1,9 @@
+numpy 
+panda
+os
+shutil
+glob
+matplotlib.pyplot
+keras
+tensorflow
+streamlit
