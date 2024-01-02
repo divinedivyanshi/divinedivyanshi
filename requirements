@@ -5,5 +5,4 @@ shutil
 glob
 matplotlib.pyplot
 keras
-tensorflow
 streamlit
