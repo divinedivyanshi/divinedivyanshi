@@ -1,12 +1,12 @@
 <h1 align="center">Howdy 👋, I'm \DIVYANSHI </h1>
-<h3 align="center">Data Science Intern</h3>
+<h3 align="center">Aspiring Data Scientist</h3>
 
 <p align="center"> <a href="https://github.com/divinedivyanshi"><img src="https://github-profile-trophy.vercel.app/?username=divinedivyanshi&theme=dark_lover&column=4&margin-w=15&margin-h=15&no-frame=true" alt="divinedivyanshi" /></a> </p>
 
-- 🌱 I’m currently learning *Machine Learning*
+- 🌱 I’m currently learning *Machine Learning* and *Data Science*
 
 
-- 🔭 I worked in [KravinGO](https://kravingo.com)
+- 🔭 I worked in [Kartexa](https://www.linkedin.com/company/kartexa/?originalSubdomain=in)
 
 
 - 👯 Connect with me on LinkedIn [LinkedIn](https://in.linkedin.com/in/divinedivyanshi)
@@ -15,7 +15,7 @@
 
 
 
-- 💬 Ask me about *c/c++,python*
+- 💬 Ask me about *c/c++,python,SQL*
 
 - 📄 Know about my experiences [https://in.linkedin.com/in/divinedivyanshi](https://in.linkedin.com/in/divinedivyanshi)
 
