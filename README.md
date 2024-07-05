@@ -7,7 +7,7 @@
 
 - 🔭 I'm working as an intern at IBM SkillsBuild.
 
-- 👯 Connect with me on LinkedIn [LinkedIn](https://in.linkedin.com/in/divinedivyanshi)
+- 👯 Connect with me on [LinkedIn](https://in.linkedin.com/in/divinedivyanshi)
 
 - 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/divinedivyanshi](https://github.com/divinedivyanshi)
 
