@@ -1,4 +1,3 @@
-<img src = "C:\Users\Divyanshi\Downloads\Screenshot 2024-06-28 121424.png">
 <h1 align="center">Howdy 👋, I'm DIVYANSHI </h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
