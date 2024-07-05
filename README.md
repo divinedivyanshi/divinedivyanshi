@@ -1,4 +1,4 @@
-<h1 align="center">Howdy 👋, I'm \DIVYANSHI </h1>
+<h1 align="center">Howdy 👋, I'm DIVYANSHI </h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
 <p align="center"> <a href="https://github.com/divinedivyanshi"><img src="https://github-profile-trophy.vercel.app/?username=divinedivyanshi&theme=dark_lover&column=4&margin-w=15&margin-h=15&no-frame=true" alt="divinedivyanshi" /></a> </p>
