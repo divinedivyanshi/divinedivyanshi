@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning *Machine Learning* and *Data Science*
 
-
-- 🔭 I worked in [Kartexa](https://www.linkedin.com/company/kartexa/?originalSubdomain=in)
-
+- 🔭 I'm working as an intern at IBM SkillsBuild.
 
 - 👯 Connect with me on LinkedIn [LinkedIn](https://in.linkedin.com/in/divinedivyanshi)
 
 - 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/divinedivyanshi](https://github.com/divinedivyanshi)
-
-
 
 - 💬 Ask me about *c/c++,python,SQL*
 
